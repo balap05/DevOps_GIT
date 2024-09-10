@@ -1,7 +1,11 @@
 Hello world
 Hello World 1
+<<<<<<< HEAD
 
 Hello world - feature B
 
 Hello world from feature Branch B
 
+=======
+Hello world 2 feature A
+>>>>>>> featureA
